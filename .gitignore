@@ -1,0 +1,18 @@
+# Python cache and virtual env
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# Jupyter and logs
+.ipynb_checkpoints/
+*.log
+
+# Optional: prevent data or credentials from being tracked
+*.csv
+*.xlsx
+*.env
