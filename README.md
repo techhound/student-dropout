@@ -158,5 +158,5 @@ These results show that **early academic indicators**, as well as aspirational f
 
 ---
 
-This project demonstrates how early academic signals and engagement metrics can be turned into actionable insights to reduce dropout risk, especially for equity-focused organizations like AVID.
+This project demonstrates how early academic signals and engagement metrics can be turned into actionable insights to reduce dropout risk, especially for equity-focused organizations.
 
