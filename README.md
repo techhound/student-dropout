@@ -8,7 +8,7 @@
 
 ### Objective
 
-To develop a predictive model that can identify students at risk of dropping out early in the academic term using a combination of academic performance, behavioral patterns, and demographic information. The ultimate goal is to enable early interventions in educational settings like those served by AVID (Advancement Via Individual Determination).
+To develop a predictive model that can identify students at risk of dropping out early in the academic term using a combination of academic performance, behavioral patterns, and demographic information. The ultimate goal is to enable early interventions in educational settings.
 
 ---
 
@@ -143,7 +143,7 @@ These results show that **early academic indicators**, as well as aspirational f
 
 1. **Label leakage is a real risk** in educational data where late-stage grades overlap with dropout proxies.
 2. Removing `G2` and `G3` ensures that the model learns from **early-term information**, making it actionable.
-3. Adjusting class weights and the classification threshold improves the **recall of at-risk students**, which is crucial for AVID-like early intervention systems.
+3. Adjusting class weights and the classification threshold improves the **recall of at-risk students**, which is crucial for early intervention systems.
 4. `G1`, `absences`, and prior failures consistently show up as **top predictive features**.
 
 ---
